@@ -32,10 +32,7 @@ void create_tree(int ele)
 		{
 			t2->right=ptr;
 		}
-		else
-		{
-			t2->left=ptr;
-		}
+		
 	}
 		
 }
